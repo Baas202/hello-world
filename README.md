@@ -1,2 +1,4 @@
 # hello-world
-This is a tutorial test
+I'm Baas202 and im taking the course CS50. At the moment I'm learning to make Android apps. 
+
+Blabla.
